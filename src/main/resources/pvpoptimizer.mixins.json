@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.pvpoptimizer.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "EntityHitboxMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
